@@ -66,8 +66,10 @@
         }
 
         .hero h1 {
-            font-size: 65px;
             line-height: 1.05;
+            font-size: 100px;
+            font-weight: bold;
+            text-shadow: 2px 2px 2px black;
         }
 
         .hero p {
